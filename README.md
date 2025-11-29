@@ -60,6 +60,7 @@ Networking & Security (Bonus):
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [User Last Login Tool](https://github.com/DanLinX2004X/user-last-login-tool) | User utility for determining last login + packaging (AUR/Deb/RPM) | Bash, Linux, Docker |
 | [Ansible Lab](https://github.com/DanLinX2004X/ansible-lab) | Multi-server automation with Vagrant & Ansible | Ansible, Vagrant, PostgreSQL, Python |
 | [Monitron](https://github.com/DanLinX2004X/monitron) | Dockerized monitoring stack | Prometheus, Grafana, Alertmanager, Docker |
 | [System Monitor](https://github.com/DanLinX2004X/system-monitor) | Real-time system monitoring (AUR package) | Bash, Python, Linux |
@@ -68,6 +69,21 @@ Networking & Security (Bonus):
 ---
 
 ### 🚀 Featured Projects
+
+#### [User Last Login Tool](https://github.com/DanLinX2004X/user-last-login-tool)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![AUR](https://img.shields.io/badge/-AUR-1793D1?style=flat&logo=arch-linux)
+
+🧪 Status: Works on Arch/Docker, needs testing on Debian/CentOS  
+
+**Packages & Releases:**
+[![AUR version](https://img.shields.io/aur/version/user-last-login-tool?label=AUR&logo=arch-linux)](https://aur.archlinux.org/packages/user-last-login-tool)
+[![Docker Pulls](https://img.shields.io/docker/pulls/danlinx2004x/user-last-login-tool?logo=docker)](https://hub.docker.com/r/danlinx2004x/user-last-login-tool)
+
+> Script for viewing user login history (last / lastlog / journalctl)  
+> with fallback logic and packaging for **AUR / DEB / RPM / DockerHub**.
+> The project has been released and has `man` + CI.
 
 #### [Ansible Infrastructure Lab](https://github.com/DanLinX2004X/ansible-lab)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible)
@@ -91,6 +107,9 @@ Networking & Security (Bonus):
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![AUR](https://img.shields.io/badge/-AUR-1793D1?style=flat&logo=arch-linux)
 
+**Packages & Releases:**
+[![AUR version](https://img.shields.io/aur/version/system-monitor?label=AUR&logo=arch-linux)](https://aur.archlinux.org/packages/system-monitor)
+
 > Real-time system monitoring tool **published in AUR**. Tracks CPU, memory, 
 > and disk I/O usage with configurable alerts.
 
@@ -98,35 +117,46 @@ Networking & Security (Bonus):
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
+**Packages & Releases:**
+[![Docker Pulls](https://img.shields.io/docker/pulls/danlinx2004x/nginx-log-monitor?logo=docker)](https://hub.docker.com/r/danlinx2004x/nginx-log-monitor)
+
 > Dockerized Python analyzer for Nginx access logs with request pattern 
 > detection and basic visualization.
 
 
 ---
 
-### 📊 GitHub & Code Stats
+### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DanLinX2004X?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=DanLinX2004X&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codewars.com/users/DanLinX2004X">
-        <img src="https://www.codewars.com/users/DanLinX2004X/badges/large" alt="Codewars Stats" width="400">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/DanLinX2004X?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLinX2004X&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DanLinX2004X">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=DanLinX2004X" width="600" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanLinX2004X&style=flat-square&color=blue" />
+</p>
+
+---
+
+### 🧠 Codewars Profile
+
+<p align="center">
+  <a href="https://www.codewars.com/users/DanLinX2004X">
+    <img src="https://www.codewars.com/users/DanLinX2004X/badges/large" width="400" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/DanLinX2004X">
+    <img src="https://github-profile-trophy.vercel.app/?username=DanLinX2004X&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </a>
+</p>
+
 
 ---
 
@@ -150,7 +180,7 @@ Networking & Security (Bonus):
 ---
 
 <p align="center">
-  <sub>📅 Profile updated: November 2025</sub>
+  <sub>📅 Profile updated: 29 November 2025</sub>
 </p>
 
 <p align="center">
